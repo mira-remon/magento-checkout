@@ -66,7 +66,7 @@ npm run test
 
 ---
 
-## 🧪 Test Types
+## 🧪 Test scenarios
 
 * **Clothing products**: Full flow with filters, checkout, and order placement.
 * **Gear products**: Filtered selections with random product selection.
